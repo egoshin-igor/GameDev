@@ -237,4 +237,6 @@ _Pvt_Extensions
 .fake/
 samples/01-basics/string-joiner/out.txt
 
-*_Data
+*_Data/
+*.dll
+Library/
