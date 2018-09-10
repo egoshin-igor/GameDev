@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 qwe
 
+=======
+qwerty
+qwe
+q
+>>>>>>> 1691fc54077d0cbfe88e1fa9ef178a92c83290d9
